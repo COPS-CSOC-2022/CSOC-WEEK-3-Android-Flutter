@@ -17,6 +17,7 @@ Your app should have these features :
 - A button on the home screen that will allow the user to create a new todo which should be updated instantly on the home screen. 
 - The home screen should also have a search bar to search for any todo in the list. On searching, only relevant todos should show up on the screen. 
 - The user should also be able to delete and update any todo. (Home screen should update the list instantly after deleting/updating)
+- **Bonus Task:** Add animation of any kind on any definite action or screen movements. It can be anything so use your imagination and creativity as you like :)
 
 ## Points
 Here is the breakdown of the points related to each task.
@@ -31,7 +32,8 @@ Here is the breakdown of the points related to each task.
 |Delete Task|20|
 |Quality of Code|10|
 |Design, Smoothness and Innovation|20|
-|**Total**|150|
+|Bonus Task - Animation|50|
+|**Total**|200|
 
 ## Judging
 Judging would be done on the basis of your implementation and authenticity.
