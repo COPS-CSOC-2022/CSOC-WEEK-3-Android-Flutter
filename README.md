@@ -11,7 +11,7 @@ Enable your TODO maker App to store and retrieve data to/from provided REST APIs
 
 ## Tasks
 As mentioned above you task is to build todo application and connect it to the APIs. 
-As mentioned above you task is to connect your previously built todo application to the APIs. In particular, you will have to implement authentication in your app and store seperate todos for each user. 
+In particular, you will have to implement authentication in your app and store seperate todos for each user. 
 Your app should have these features :
 - A Login and Register screen
 - A button on the home screen that will allow the user to create a new todo which should be updated instantly on the home screen. 
