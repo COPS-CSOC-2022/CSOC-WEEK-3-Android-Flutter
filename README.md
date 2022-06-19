@@ -25,7 +25,7 @@ Here is the breakdown of the points related to each task.
 |**Task**|**Points**  |
 |--|--|
 | Authentication | 20 |
-|Search Bar Implementation|20|
+|API Handling|20|
 |Add task|20|
 |Get tasks|20|
 |Edit Task|20|
