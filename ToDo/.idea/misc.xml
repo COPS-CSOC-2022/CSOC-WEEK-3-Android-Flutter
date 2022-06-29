@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/yashs/OneDrive/document (1)/COPS/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/drawable-v24/background_chat_input.xml" value="0.1" />
+        <entry key="..\:/Users/yashs/OneDrive/document (1)/COPS/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/yashs/OneDrive/document (1)/COPS/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/layout/activity_login2.xml" value="0.10925925925925926" />
+        <entry key="..\:/Users/yashs/OneDrive/document (1)/COPS/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/yashs/OneDrive/document (1)/COPS/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/yashs/OneDrive/document (1)/COPS/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/layout/activity_sign_up2.xml" value="0.25" />
+        <entry key="..\:/Users/yashs/OneDrive/document (1)/COPS/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="..\:/cops/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/drawable-v24/back_ic.xml" value="0.188" />
+        <entry key="..\:/cops/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/drawable-v24/background_btn2.xml" value="0.174" />
+        <entry key="..\:/cops/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/drawable-v24/background_content_bottom.xml" value="0.188" />
+        <entry key="..\:/cops/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/cops/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/cops/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/cops/CSOC-WEEK-3-Android-Flutter/ToDo/app/src/main/res/layout/activity_welcome.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
